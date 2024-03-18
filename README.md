@@ -1,5 +1,4 @@
 <!-- animation start  -->
-![Typing
 
 <!-- animation end  -->
 <br/>
@@ -27,7 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedrazabaloch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 ###
-<h3 align="left">🌐 Connect with me:</h3>
+<!-- <h3 align="left">🌐 Connect with me:</h3>
 ###
 <div align="center">
   <a href="https://www.facebook.com/aahmedrazabaloch/" target="_blank">
@@ -73,4 +72,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-###
+### -->
